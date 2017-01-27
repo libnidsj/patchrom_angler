@@ -9,7 +9,7 @@ PORT_PRODUCT = angler_global
 
 # All vendor apks needed
 local-phone-apps := NfcNci PrintSpooler PacProcessor CertInstaller KeyChain Stk qcrilmsgtunnel \
-	TimeService UserDictionaryProvider talkback Bluetooth BluetoothMidiService \
+	TimeService UserDictionaryProvider talkback Bluetooth BluetoothMidiService LatinImeGoogle \
 
 local-phone-priv-apps := Shell FusedLocation ProxyHandler ExternalStorageProvider TagGoogle \
 	SharedStorageBackup DMService ConnMO DiagMon DCMO InputDevices CellBroadcastReceiver \
