@@ -24,4 +24,7 @@ local-target-bit := 64
 include $(PORT_BUILD)/porting.mk
 
 pre-zip-misc:
+	@echo copy files
+	cp -rf extras/system/* $(ZIP_DIR)/system/
+
 
