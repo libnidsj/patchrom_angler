@@ -54,6 +54,7 @@ name="HwSarControlService.apk" certificate="build/target/product/security/platfo
 name="ims.apk" certificate="build/target/product/security/platform.x509.pem" private_key="build/target/product/security/platform.pk8"
 name="InputDevices.apk" certificate="build/target/product/security/platform.x509.pem" private_key="build/target/product/security/platform.pk8"
 name="KeyChain.apk" certificate="build/target/product/security/platform.x509.pem" private_key="build/target/product/security/platform.pk8"
+name="LatinImeGoogle.apk" certificate="PRESIGNED" private_key=""
 name="LatinIMEGooglePrebuilt.apk" certificate="PRESIGNED" private_key=""
 name="LiveWallpapersPicker.apk" certificate="build/target/product/security/platform.x509.pem" private_key="build/target/product/security/platform.pk8"
 name="ManagedProvisioning.apk" certificate="build/target/product/security/platform.x509.pem" private_key="build/target/product/security/platform.pk8"
