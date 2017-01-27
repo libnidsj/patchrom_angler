@@ -87,6 +87,7 @@ name="Stk.apk" certificate="build/target/product/security/platform.x509.pem" pri
 name="StorageManagerGoogle.apk" certificate="PRESIGNED" private_key=""
 name="SystemUI.apk" certificate="build/target/product/security/platform.x509.pem" private_key="build/target/product/security/platform.pk8"
 name="TagGoogle.apk" certificate="PRESIGNED" private_key=""
+name="talkback.apk" certificate="PRESIGNED" private_key=""
 name="Telecom.apk" certificate="build/target/product/security/platform.x509.pem" private_key="build/target/product/security/platform.pk8"
 name="TelephonyProvider.apk" certificate="build/target/product/security/platform.x509.pem" private_key="build/target/product/security/platform.pk8"
 name="TeleService.apk" certificate="build/target/product/security/platform.x509.pem" private_key="build/target/product/security/platform.pk8"
