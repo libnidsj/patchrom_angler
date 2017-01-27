@@ -19,7 +19,7 @@ local-density := XXXHDPI
 
 local-miui-modified-apps := InCallUI
 
-local-miui-removed-apps := 
+local-miui-removed-apps := SogouInput FM MiuiSuperMarket Email GameCenter Updater BugReport Mipay
 
 local-target-bit := 64
 
