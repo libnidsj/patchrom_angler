@@ -5,7 +5,7 @@
 ## The original zip file, MUST be specified by each product
 local-zip-file     := stockrom.zip
 
-PORT_PRODUCT = bullhead_global
+PORT_PRODUCT = angler_global
 
 # All vendor apks needed
 local-phone-apps := NfcNci PrintSpooler PacProcessor CertInstaller KeyChain Stk qcrilmsgtunnel \
