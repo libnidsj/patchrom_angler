@@ -14,6 +14,11 @@ local-phone-priv-apps := Shell FusedLocation ProxyHandler ExternalStorageProvide
 	BackupRestoreConfirmation
 
 local-density := XXXHDPI
+
+local-miui-modified-apps := InCallUI
+
+local-miui-removed-apps := 
+
 local-target-bit := 64
 
 include $(PORT_BUILD)/porting.mk
