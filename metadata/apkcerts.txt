@@ -102,3 +102,4 @@ name="WallpaperCropper.apk" certificate="build/target/product/security/platform.
 name="WallpaperPickerGooglePrebuilt.apk" certificate="PRESIGNED" private_key=""
 name="WallpapersBReel.apk" certificate="PRESIGNED" private_key=""
 name="WallpapersUsTwo.apk" certificate="PRESIGNED" private_key=""
+name="WebViewGoogle.apk" certificate="PRESIGNED" private_key=""
