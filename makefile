@@ -8,20 +8,17 @@ local-zip-file     := stockrom.zip
 PORT_PRODUCT = angler_global
 
 # All vendor apks needed
-local-phone-apps := NfcNci PrintSpooler PacProcessor CertInstaller KeyChain Stk qcrilmsgtunnel \
-	TimeService UserDictionaryProvider talkback Bluetooth BluetoothMidiService LatinImeGoogle \
+local-phone-apps := NfcNci PrintSpooler PacProcessor CertInstaller KeyChain LatinImeGoogle WebViewGoogle \
+	Stk qcrilmsgtunnel TimeService UserDictionaryProvider talkback Bluetooth BluetoothMidiService LatinImeGoogle \
 
 local-phone-priv-apps := Shell FusedLocation ProxyHandler ExternalStorageProvider TagGoogle \
 	SharedStorageBackup DMService ConnMO DiagMon DCMO InputDevices CellBroadcastReceiver \
 	BackupRestoreConfirmation
 
 local-density := XXXHDPI
-
-local-miui-modified-apps := InCallUI
-
-local-miui-removed-apps := SogouInput FM MiuiSuperMarket Email GameCenter
-
 local-target-bit := 64
+local-miui-modified-apps := InCallUI
+local-miui-removed-apps := SogouInput FM MiuiSuperMarket Email GameCenter
 
 include $(PORT_BUILD)/porting.mk
 
