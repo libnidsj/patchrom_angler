@@ -144,6 +144,12 @@ system/app/PrebuiltBugle/PrebuiltBugle.apk 0 0 644 selabel=u:object_r:system_fil
 system/app/PrebuiltBugle/oat 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/app/PrebuiltBugle/oat/arm 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/app/PrebuiltBugle/oat/arm/PrebuiltBugle.odex 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/app/GoogleCalendarSyncAdapter 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/app/GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk 0 0 644
+system/app/GoogleContactsSyncAdapter 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk 0 0 644
+system/app/GoogleTTS 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/app/GoogleTTS/GoogleTTS.apk 0 0 644
 system/app/PrebuiltDeskClockGoogle 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/app/PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/app/PrebuiltDeskClockGoogle/oat 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
@@ -1813,6 +1819,16 @@ system/priv-app/Phonesky/Phonesky.apk 0 0 644 selabel=u:object_r:system_file:s0 
 system/priv-app/Phonesky/oat 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/priv-app/Phonesky/oat/arm64 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/priv-app/Phonesky/oat/arm64/Phonesky.odex 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/GoogleServicesFramework 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/GooglePartnerSetup 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/GoogleLoginService 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/GoogleLoginService/GoogleLoginService.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/GoogleFeedback 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/GoogleFeedback/GoogleFeedback.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/GoogleBackupTransport 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/GoogleBackupTransport/GoogleBackupTransport.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/priv-app/ProxyHandler 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/priv-app/ProxyHandler/ProxyHandler.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/priv-app/ProxyHandler/oat 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
@@ -1833,6 +1849,28 @@ system/priv-app/SetupWizard/SetupWizard.apk 0 0 644 selabel=u:object_r:system_fi
 system/priv-app/SetupWizard/oat 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/priv-app/SetupWizard/oat/arm64 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/priv-app/SetupWizard/oat/arm64/SetupWizard.odex 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm/libAppDataSearch.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm/libconscrypt_gmscore_jni.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm/libgmscore.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm/libleveldbjni.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm/libNearbyApp.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm/libWhisperDev.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm64/libAppDataSearch.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm64/libconscrypt_gmscore_jni.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm64/libgcastv2_base.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm64/libgcastv2_support.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm64/libgmscore.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm64/libgoogle-ocrclient-v3.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm64/libjgcastservice.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm64/libleveldbjni.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm64/libNearbyApp.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm64/libsslwrapper_jni.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm64/libwearable-selector.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
+system/priv-app/PrebuiltGmsCore/lib/arm64/libWhisperDev.so 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/priv-app/SharedStorageBackup 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/priv-app/SharedStorageBackup/SharedStorageBackup.apk 0 0 644 selabel=u:object_r:system_file:s0 capabilities=0x0
 system/priv-app/SharedStorageBackup/oat 0 0 755 selabel=u:object_r:system_file:s0 capabilities=0x0
