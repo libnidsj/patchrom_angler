@@ -10,7 +10,7 @@ If you want to build miui yourself using this repository, setup your linux for a
 - repo init -u git://github.com/MiCode/patchrom.git -b marshmallow
 - repo sync
 - rm -rf angler
-- git clone https://github.com/libnijunior/patchrom_bullhead -b mtc20l angler
+- git clone https://github.com/libnijunior/patchrom_angler -b mtc20l angler
 - . build/envsetup.sh
 - cd angler
 - make fullota
