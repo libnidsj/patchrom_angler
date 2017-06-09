@@ -18,7 +18,7 @@ local-phone-priv-apps := Shell FusedLocation ProxyHandler ExternalStorageProvide
 local-density := XXXHDPI
 local-target-bit := 64
 local-miui-modified-apps := InCallUI
-local-miui-removed-apps := SogouInput FM MiuiSuperMarket Email GameCenter
+local-miui-removed-apps := SogouInput FM MiuiSuperMarket Email GameCenter Whetstone
 
 include $(PORT_BUILD)/porting.mk
 
